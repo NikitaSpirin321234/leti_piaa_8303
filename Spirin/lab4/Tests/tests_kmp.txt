@@ -1,0 +1,24 @@
+Test 1
+Input:
+aba
+abababababab
+3
+Output:
+0,2,4,6,8
+
+
+Test 2
+Input:
+ababa
+ababerror
+1
+Uutput:
+-1
+
+
+Test 3
+Input:
+hth
+thdxdgfhthfhtht
+Output:
+7,11
